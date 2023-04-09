@@ -72,4 +72,8 @@ Fork your own copy, then in your terminal enter:
 
 `python3 main.py`
 
+1) Following the prompts, enter your name and bid for _whatever_ the prize is.
+2) As long as there is another person to bid, type `y` or `no` and pass the device onto the next person.
+3) When everyone has bid, so the winner!
+
 Enjoy! 🍪
