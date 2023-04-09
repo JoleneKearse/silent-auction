@@ -1,5 +1,4 @@
 from art import logo, win
-import re
 import os
 
 # control variables
